@@ -1,0 +1,6 @@
+{
+  "name": "Ability PSC Academy",
+  "description": "An AI-powered Kerala PSC coaching and learning platform by Ability Foundation for the Disabled, Pulikkal, Malappuram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
